@@ -17,8 +17,8 @@ Below is a list of steps performed to get to the desired results.
 * Produced "tidy_data.txt" as the second expected output
 
 # List of variables
-* subjectId: 1 to 30, each representing a participant in the study
-* activitylabel: the activity that the subject was doing at the time of the measurement
+* subjectID
+* activitylabel
 * tBodyAcc-mean-X
 * tBodyAcc-mean-Y
 * tBodyAcc-mean-Z
